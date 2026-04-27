@@ -8,7 +8,7 @@
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **A Corrida do Prompt** | Vocês devem gerar um resultado específico (texto ou imagem, conforme definido pelo professor) utilizando o celular. O grande desafio? Vocês têm um limite de apenas 5 iterações (tentativas) para chegar à perfeição. | [Ver Projeto](./projeto-a corrida do prompt/) |
+| **A Corrida do Prompt** | Vocês devem gerar um resultado específico (texto ou imagem, conforme definido pelo professor) utilizando o celular. O grande desafio? Vocês têm um limite de apenas 5 iterações (tentativas) para chegar à perfeição. | [Ver Projeto](./projeto-a-corrida-do-prompt/) |
  
 ---
  
