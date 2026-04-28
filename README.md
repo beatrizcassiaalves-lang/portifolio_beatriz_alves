@@ -1,3 +1,37 @@
+# Beatriz Cassia Alves da Silva
+> Estudante de Ciência da Computação
+ 
+---
+ 
+### 📫 Contato & Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-alves-968a7b256?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatrizcassia.alves@gmail.com)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
+ 
+---
+ 
+### 👨‍💻 Sobre
+Atualmente cursando Ciência da Computação, com grande interesse em utilizar a tecnologia para resolver problemas e desenvolver soluções inovadoras. Tenho foco nas áreas de Desenvolvimento de Software e Ciência de Dados, buscando constantemente aprimorar minhas habilidades técnicas e analíticas. Ao longo da minha formação, venho desenvolvendo conhecimentos em programação, modelagem de dados e análise de informações, sempre aliando teoria e prática por meio de projetos acadêmicos e pessoais.
+ 
+* **Habilidades Técnicas:** Python, Java, SQL, HTML.
+* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
+* **Experiência/Projetos Relevantes:** Desenvolvi projetos acadêmicos voltados para desenvolvimento web e modelagem de dados. Entre eles, destaco a criação de um site interativo de galeria histórica em HTML, no qual recursos de inteligência artificial foram utilizados para interpretar e representar acontecimentos históricos por meio de imagens. Além disso, participei da modelagem de um banco de dados inspirado em plataformas de streaming, com foco na organização e análise precisa de dados relacionados a reproduções musicais, garantindo maior confiabilidade, integridade e clareza das informações.
+---
+ 
+### 🛠 Minhas Ferramentas Favoritas
+ 
+#### 💻 Linguagens e Tecnologias
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML]
+ 
+#### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+ 
+#### 🤖 Inteligência Artificial & Ciência de Dados
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![IA Studio](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+ 
+---
 ### 📂 Portfólio de Projetos
  
 #### 🗃️ Modelagem de Banco de Dados
