@@ -51,6 +51,7 @@ Atualmente cursando Ciência da Computação, com grande interesse em utilizar a
 | **Do Clone ao Produto Mínimo Viável (MVP+)** | Evolução a prática de engenharia reversa para a fase de inovação e diferenciação competitiva, utilizando IA como copiloto de desenvolvimento e o ecossistema Firebase como infraestrutura. | [Ver Projeto](./projeto-whereami/) |
 | **Engenharia de Software e IA com Bubble.io** | Aplicação web de gestão (por exemplo, um gerenciador de orçamentos ou de férias) utilizando a Inteligência Artificial do Bubble como acelerador, mas aplicando rigorosamente os fundamentos de engenharia de software para garantir segurança, escalabilidade e governança. | [Ver Projeto](./projeto-engenharia-de-software-e-ia-com-bubble.io/) |
 | **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Integrar tecnologias de Inteligência Artificial generativa (Manus AI) com frameworks de comunicação open-source (Jitsi Meet) para criar uma solução funcional de videoconferência para Android, focando em usabilidade e criatividade. | [Ver Projeto](./projeto-desenvolvimento-de-app-de-videoconferência-com-manus-ai-e-jitsi/) |
+| **Composição Musical Assistida por Inteligência Artificial** | Explorar o potencial das ferramentas de IA Generativa para a criação de conteúdo artístico. Você irá atuar como um produtor musical e engenheiro de prompts, utilizando LLMs (Large Language Models) para análise de estilo e IA Generativa de Áudio para a produção fonográfica. | [Ver Projeto](./projeto-musica-ia/) |
  
 ---
  
